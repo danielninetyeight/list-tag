@@ -220,6 +220,17 @@ ul {
         width: 3rem;
         position: relative;
         bottom: 8.2rem;
-        left: 18.5rem;
+        left: 10rem;
+    }
+}
+
+@media (min-width: 1280px) {
+
+    #task-c {
+        height: 1.3rem;
+        width: 3rem;
+        position: relative;
+        bottom: 8.2rem;
+        left: 18.5re;
     }
 }
